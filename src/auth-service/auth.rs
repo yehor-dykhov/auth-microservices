@@ -1,4 +1,4 @@
-use std::sync::{Mutex};
+use std::sync::Mutex;
 
 use crate::{sessions::Sessions, users::Users};
 
